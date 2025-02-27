@@ -45,9 +45,30 @@ const services = [
     },
     {
         title: "Full-Stack Development",
-        description: "Building scalable web applications with a focus on accessibility and responsive design.",
+        description: "Building scalable web applications with a focus on accessibility, responsive design, and seamless user interaction.",
+    },
+    {
+        title: "Web Development",
+        description: "Crafting customized websites that reflect your brand identity, enhance user experience, and engage your target audience.",
+    },
+    {
+        title: "Database Development",
+        description: "Designing and developing secure, efficient, and scalable database solutions that ensure your data is organized and accessible.",
+    },
+    {
+        title: "Backend Development",
+        description: "Providing ongoing support and maintenance for backend systems, ensuring performance, scalability, and security as your business grows.",
+    },
+    {
+        title: "Software Development",
+        description: "Delivering tailored software solutions across platforms with a focus on scalability, performance, and efficiency.",
+    },
+    {
+        title: "Android Development",
+        description: "Creating impactful Android apps that connect your vision with your users, building meaningful relationships and long-term engagement.",
     },
 ];
+
 
 const dataportfolio = [
     {
