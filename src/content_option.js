@@ -1,5 +1,5 @@
 import myPhoto from './assets/images/myphoto_sunshine.jpg';
-<img src={myPhoto} alt="Jashanjot Kaur's profile photo" />
+<img src={myPhoto} alt="Jashanjot Kaur" />
 
 
 const logotext = "Jashanjot";
