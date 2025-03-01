@@ -1,7 +1,3 @@
-import myPhoto from './assets/images/myphoto_sunshine.jpg';
-<img src={myPhoto} alt="Jashanjot Kaur" />
-
-
 const logotext = "Jashanjot";
 const meta = {
     title: "Jashanjot Kaur",
@@ -17,12 +13,12 @@ const introdata = {
         third: "I collaborate in Agile teams",
     },
     description: "Passionate about crafting user-friendly, inclusive digital experiences through UI/UX research, usability testing, and accessibility compliance.",
-    your_img_url: myPhoto,
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "I’m a passionate learner who believes in continuous growth and adaptability. With a strong foundation in programming, I enjoy building efficient and user-friendly digital experiences. My skills include C#, Java, SQL, HTML, CSS, Python, and Kotlin, along with experience in UI/UX design, accessibility, and prototyping. I work well in team environments, following Agile and Scrum methodologies, and have experience with tools like Git/GitHub, Visual Studio, IntelliJ, and SQL Developer. Whether it's designing intuitive interfaces or optimizing backend systems, I approach every project with curiosity and dedication. I’m always eager to learn, take on new challenges, and create meaningful solutions. ",
+    aboutme: "I’m a passionate learner who believes in continuous growth and adaptability. With a strong foundation in programming, I enjoy building efficient and user-friendly digital experiences. My skills include C#, Java, SQL, HTML, CSS, Python, and Kotlin, along with experience in UI/UX design, accessibility, and prototyping. I . well in team environments, following Agile and Scrum methodologies, and have experience with tools like Git/GitHub, Visual Studio, IntelliJ, and SQL Developer. Whether it's designing intuitive interfaces or optimizing backend systems, I approach every project with curiosity and dedication. I’m always eager to learn, take on new challenges, and create meaningful solutions. ",
 };
 
 const skills = [
