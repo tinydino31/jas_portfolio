@@ -13,7 +13,7 @@ const introdata = {
         third: "I collaborate in Agile teams",
     },
     description: "Passionate about crafting user-friendly, inclusive digital experiences through UI/UX research, usability testing, and accessibility compliance.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://github.com/tinydino31/jas_portfolio/blob/main/src/my_photo.jpg",
 };
 
 const dataabout = {
@@ -28,7 +28,7 @@ const skills = [
     { name: "Usability Testing", value: 85 },
     { name: "Prototyping", value: 80 },
     { name: "React.js", value: 75 },
-    { name: "Node.js", value: 70 },
+    { name: "Canva", value: 95 },
     { name: "Java", value: 88 },
     { name: "SQL", value: 90 },
     { name: "C# (.NET)", value: 80 },
@@ -68,30 +68,36 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://wallpapercave.com/wp/wp12670943.jpg",
+        description: "Presentation: Have a look at the designs I made.",
+        link: "https://1drv.ms/p/c/2d8cc90d98519883/EcFykuZ39JpCphqGglpB8KUB2ZiKOauJmqEN6NSABR4YGA?e=iziZVE",
+    },
+    {
+        img: "https://wallpapercave.com/wp/wp6675477.jpg",
         description: "Booky - Online Book Management Application: Designed UI/UX for seamless user interaction.",
         link: "https://booky-le7y.onrender.com/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://wallpapercave.com/wp/wp5568954.jpg",
         description: "Software Requirements Specification Document: Led creation of an SRS document for a diabetes management system, detailing UML use cases, technical specs, and functional requirements.",
         link: "https://docs.google.com/document/d/1hRHrgzOjpub_FAqOZSB9UVftvxH0WTFI/edit?usp=drive_link&ouid=110287580790279967497&rtpof=true&sd=true",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://wallpapercave.com/wp/wp9292778.jpg",
         description: "Weather Forecast Application: Developed a dynamic app integrating APIs to display real-time weather data.",
         link: "http://studentweb.cencol.ca/jkau1146/assignment4_125/assignment4_125.html",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://wallpapercave.com/wp/wp10313001.jpg",
         description: "Anup Rai Realty Inc. Website: Designed and developed a responsive real estate website showcasing listings and contact details.",
         link: "http://studentweb.cencol.ca/jkau1146/final213/HomePage.html",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://wallpapercave.com/wp/wp12398291.jpg",
         description: "Bug Smasher Game: Built an interactive browser-based game demonstrating animation and user interaction techniques.",
         link: "http://studentweb.cencol.ca/jkau1146/assignment3_125/assignment3_125.html",
     },
+
 
 ];
 
