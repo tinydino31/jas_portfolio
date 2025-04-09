@@ -13,7 +13,7 @@ const introdata = {
         third: "I collaborate in Agile teams",
     },
     description: "Passionate about crafting user-friendly, inclusive digital experiences through UI/UX research, usability testing, and accessibility compliance.",
-    your_img_url: "https://github.com/tinydino31/jas_portfolio/blob/main/src/my_photo.jpg",
+    your_img_url: "https://wallpapercave.com/wp/wp12314424.jpg",
 };
 
 const dataabout = {
